@@ -1,0 +1,42 @@
+216  cat wilders.csv
+  217  grep PHP wilders.csv > php_france_2019.csv
+  218  grep 2019 wilders.csv > php_france_2019.csv
+  219  cat php_france_2019.csv | php_france_2019.csv
+  220  cat php_france_2019.csv | sort  php_france_2019.csv
+  221  grep PHP wilders.csv > liste1.csv
+  222  grep 2019 wilders.csv > liste2.csv
+  223  cat liste1.csv liste.csv | sort php_france_2019.csv
+  224  cat liste1.csv liste2.csv > sort php_france_2019.csv
+  225  cat liste1.csv liste2.csv | sort php_france_2019.csv
+  226  grep PHP wilers.csv > php.csv
+  227  grep PHP wilders.csv > php.csv
+  228  grep 2019 wilders.csv > 2019.csv
+  229  cat php.csv 2019.csv | sort -u
+  230  cat php.csv 2019.csv | sort php_france_2019.csv
+  231  cat php.csv 2019.csv | sort -php_france_2019.csv
+  232  cat wilders.csv | grep -i "France,2019,PHP" > php_france_2019.csv
+  233  head wilders.csv
+  234  cat wilders.csv | grep -i "Toulouse,Java" > java-toulouse.csv
+  235  cat wilders.csv | grep -i "Biarritz,java" > java_biarritzcsv
+  236  cat wilders.csv | grep -i "Toulouse,JavaScript" > java_toulouse.csv
+  237  grep -i " Toulouse,JavaScript" wilders.csv > java_toulouse.csv
+  238  grep -i "Toulouse,JavaScript" wilders.csv > java_toulouse.csv
+  239  grep | "Toulouse,JavaScript" wilders.csv > java_toulouse.csv
+  240  cat wilders.csv | grep -i "Toulouse,JavaScript" > java_t.csv
+  241  cat java_t.csv*
+  242  cat java_t.csv
+  243  cat wilders.csv | grep "Toulouse,JavaScript" > java_t.csv
+  244  cat java_t.csv
+  245  head java_t.csv
+  246  grep JavaScript wilders.csv > javascript.csv
+  247  head javascript.csv
+  248  grep Biarritz javascript.csv > biarritz.csv
+  249  head biarritz.csv
+  250  grep Toulouse javascript.csv > toulouse.csv
+  251  head toulouse.csv
+  252  cat toulouse.csv biarritz.csv | sort javascript_biarritz_toulouse.csv
+  253  cat toulouse.csv biarritz.csv | sort -u  javascript_biarritz_toulouse.csv
+  254  cat toulouse.csv biarritz.csv | sort -  javascript_biarritz_toulouse.csv
+  255  cat toulouse.csv biarritz.csv | sort -u >  javascript_biarritz_toulouse.csv
+  256  cat javascript_biarritz_toulouse.csv
+  257  history
